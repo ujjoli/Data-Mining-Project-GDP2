@@ -1,6 +1,6 @@
 # Co-relation between GDP and RPP
 
-Finally, I would like to see if there is any effect between GDP an RPP. As GDP by state shows which area in that state is blooming, RPP expresses the index of cost
+Finally, I would like to see if there is any effect of GDP to RPP. As GDP by state shows which area in that state is blooming, RPP expresses the index of cost
 of rental cost and living cost. I would like to see if increase in GDP of that state will increase RPP of that state. In other words, will GDP growth of that state 
 make the place or the state expensive to live in.
 
