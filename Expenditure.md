@@ -7,7 +7,7 @@ if people are able to save some money.
 Keeping this in mind, lets compare the per capita expenditure of US to per capita income of US over the years. Per capita income means average income made each person and per capita expenditure 
 means average amount of money spended by each person.
 
-![3 a](https://user-images.githubusercontent.com/74025005/98333253-4ec21b80-1fce-11eb-8eab-fc3b2ced199d.png)
+![3 a](https://github.com/ujjoli/analysis1/blob/gh-pages/screenshots/3.a..png)
 
 From the comparison, you can see that per capita expenditure is increasing in same pattern like the per capita income. From 2008 t0 2018 and more, both per capita income and expenditure are increasing
 with same slope. Today's per capita expenditure was equal to 2012's per capita income. This means that the amount of per person spending has been significantly increased. However, because of the parallel increase in per capita income,
@@ -15,7 +15,7 @@ there does not seem to be adverse effect. And the gap between these lines are sh
 
 So after national comparison, I would like to see which state has increased their spending rate and by how much from 2008 to 2019. So lets see the plot.
 
-![3 b](https://user-images.githubusercontent.com/74025005/98333261-51247580-1fce-11eb-8b2d-6bf6587da3c9.png)
+![3 b](https://github.com/ujjoli/analysis1/blob/gh-pages/screenshots/3.b..png)
 
 This horizontol bar plot shows California people have increased their spending rate by 40%. In same way, even other states are not that far away. This can lead to a point that though inflation have surged abundantly, 
 increase in each person's people income in all these states have maintained the economy market.
@@ -23,7 +23,7 @@ increase in each person's people income in all these states have maintained the 
 Through some data filter,  we realized that the top areas where people are spending most money seems to happen Housing and utilities, health care and financial services and insurance.
 Furthermore, to have more clarity, we can see the following plot which compares the spending behavior of Top 4 state residents in 2009 and in 2019. Among all, **housing and utilites** seems to be 
 the most expendable area for these 4 states (and even for other states) in both 2009 and 2019 as well.
-![3 c](https://user-images.githubusercontent.com/74025005/98333262-5386cf80-1fce-11eb-8b23-f5545e039b47.png)
+![3 c](https://github.com/ujjoli/analysis1/blob/gh-pages/screenshots/3.c..png)
 
 From this analysis, we can shed some light that per person in most of all states have top priority to spend in housing and utility, health care and financial services and insurance.
 That is why affordable health care and affordable health care is always the biggest question.
