@@ -3,8 +3,7 @@
 After analyzing GDP by state, lets analyze Income of each state and by different areas to see some patterns. First of all, lets see how the income is varied by state to state.
 So lets compare the income of all 50 states for many yeaars and come back to 2019. 
 
-We are comparing personal income by state so Lets see the plot. The plot shows that over time the personal income has been increasing in all states and people are being able to bring more paycheck home
-This plot just gives the idea of how the income is varied by state to state. To have deeper sense, we are acutually going to see the income by different areas, so let's look bar plot.
+We are comparing personal income by state so Lets see the plot. The plot shows that over time the personal income has been increasing in all states and people are being able to This plot just gives the idea of how the income is varied by state to state. To have deeper sense, we are acutually going to see the income by different areas, so let's look bar plot.
 
 ![2 b](https://github.com/ujjoli/analysis1/blob/gh-pages/screenshots/2.b.png)
 
